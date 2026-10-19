@@ -1,0 +1,18 @@
+{
+  "name": "datkidlollol-plugins",
+  "owner": {
+    "name": "datkidlollol",
+    "email": "datkidlollol@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins, including the decision council."
+  },
+  "plugins": [
+    {
+      "name": "decision-council",
+      "source": "./plugins/decision-council",
+      "description": "A personal decision council: five independent advisers, anonymous peer review, and a Chairman's verdict that doesn't just agree with you.",
+      "version": "1.0.0"
+    }
+  ]
+}

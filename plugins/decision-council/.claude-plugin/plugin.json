@@ -1,0 +1,10 @@
+{
+  "name": "decision-council",
+  "version": "1.0.0",
+  "description": "A personal decision council: five independent advisers, anonymous peer review, and a Chairman's verdict that doesn't just agree with you.",
+  "author": {
+    "name": "datkidlollol",
+    "email": "datkidlollol@gmail.com"
+  },
+  "keywords": ["decision", "council", "advisers", "strategy", "red-team"]
+}
